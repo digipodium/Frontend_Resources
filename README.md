@@ -1,7 +1,9 @@
 ![logo](https://github.com/digipodium/Frontend_Resources/blob/main/images/Design.png?raw=true)
 ## Tailwind Templates
+- [Tail Blocks](https://tailblocks.cc/)
+- [Flowrift](https://flowrift.com/c/banner)
+- [Preline](https://preline.co/)
 - [HTMLrev](https://htmlrev.com/)
-- 
 
 ## React Templates
 - [Shadcn Templates](https://nsui.irung.me/)
@@ -26,4 +28,3 @@
 - [Time Picker](https://time.openstatus.dev/)
 - [Lector -PDF Viewer](https://lector-weld.vercel.app/)
 - [WYSIWYG editor](https://github.com/steven-tey/novel)
-- 
