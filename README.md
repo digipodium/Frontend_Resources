@@ -4,6 +4,15 @@
 - [Flowrift](https://flowrift.com/c/banner)
 - [Preline](https://preline.co/)
 - [HTMLrev](https://htmlrev.com/)
+- [CSS Snippets](https://cssnippets.shefali.dev/)
+- [Windy Toolbox](https://www.tailwindtoolbox.com/)
+- [Creative Tim](https://www.creative-tim.com/twcomponents/)
+- [Tailwind Templates](https://tailwindtemplates.io/templates)
+- [Meraki UI](https://merakiui.com/templates)
+- [KitWind](https://kitwind.io/products/kometa/components)
+- [Tail Kit](https://www.tailwind-kit.com/)
+- [Float UI](https://floatui.com/)
+- [Treact](https://floatui.com/)
 
 ## React Templates
 - [Shadcn Templates](https://nsui.irung.me/)
